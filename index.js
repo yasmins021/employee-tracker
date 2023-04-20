@@ -5,13 +5,14 @@
 const mysql = require('mysql2');
 const inquirer = require("inquirer");
 const table = require("console.table");
+require("dotenv").config()
 
 // connect to db
 var connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "",
+    password:process.env.DB_PW,
     database: "work_db"
 });
 

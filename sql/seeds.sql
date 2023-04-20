@@ -18,6 +18,7 @@ INSERT INTO role (title, salary, department_id)
 VALUES ("Engineer", 120000, 2);
 INSERT INTO role (title, salary, department_id)
 VALUES ("Financial Manager", 120000, 3);
+
 INSERT INTO role (title, salary, department_id)
 VALUES ("Product Manager", 120000, 4);
 INSERT INTO role (title, salary, department_id)
