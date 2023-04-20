@@ -37,3 +37,6 @@ This application was created by Yasmin Sanchez.
 
 ## License
 This project is licensed under the MIT License.
+
+## walk through video
+https://www.loom.com/share/6e8883ea7baf4c40ba2b5ece68d1f12f
