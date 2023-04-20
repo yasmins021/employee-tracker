@@ -1,9 +1,9 @@
 
-#Employee Management System
+# Employee Management System
 ## Description
 This is a command-line application that allows a user to manage employees, departments, and roles within a company. It accepts user input to view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee's role.
 
-##Installation
+## Installation
 To use this application, you will need to have Node.js and MySQL installed on your computer.
 
 Clone the repository to your local machine.
