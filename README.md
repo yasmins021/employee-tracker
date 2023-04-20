@@ -1,6 +1,6 @@
 
 #Employee Management System
-##Description
+## Description
 This is a command-line application that allows a user to manage employees, departments, and roles within a company. It accepts user input to view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee's role.
 
 ##Installation
@@ -14,7 +14,7 @@ Usage
 To start the application, run the following command in your terminal:
 
 sql
-##Copy code
+## Copy code
 npm start
 You will be presented with a menu of options to choose from. Select an option by typing the corresponding number and pressing Enter.
 
@@ -32,8 +32,8 @@ Add an employee: Prompts you to enter the first name, last name, role, and manag
 
 Update an employee role: Prompts you to select an employee and enter their new role, and updates the employee's role in the database.
 
-##Credits
+## Credits
 This application was created by Yasmin Sanchez.
 
-##License
+## License
 This project is licensed under the MIT License.
